@@ -1,0 +1,27 @@
+body {
+  background-color: #006241;
+}
+
+#title {
+  text-align: center;
+ 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: aliceblue; 
+}
+#drink-condition {
+  margin-right: 100px;
+}
+#sub-title {
+  color: aliceblue;
+  display: flex;
+  justify-content: center;
+}
+
+.center-table{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 20vh;
+}
